@@ -1,6 +1,6 @@
 # Vimrc
 
-My VimRC config file
+My .vimrv config file
 
 ## Description
 This file contains my vim configurations, it uses vundle to manages it's plugins.
